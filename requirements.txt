@@ -4,3 +4,5 @@ scikit-learn
 nltk
 streamlit
 ipykernel
+tensorflow
+keras
